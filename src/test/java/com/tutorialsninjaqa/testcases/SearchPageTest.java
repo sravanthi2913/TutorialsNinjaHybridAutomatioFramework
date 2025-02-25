@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import com.tutorialsnijaqa.base.Base;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.SearchResultsPage;
-
+//Adding new comment and test, practice git actions to follow to add and committ the code
 public class SearchPageTest extends Base {
 
 	public WebDriver driver;
